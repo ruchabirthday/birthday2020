@@ -1,0 +1,25 @@
+{
+  "short_name": "Rucha's Birthday",
+  "name": "Celebration of Ms.Rucha Pagar",
+  "icons": [
+    {
+      "src": "logo_birthday.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo_birthday.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo_birthday.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

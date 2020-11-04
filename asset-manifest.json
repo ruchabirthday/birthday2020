@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/birthday2020/static/css/main.239d9539.chunk.css",
+    "main.js": "/birthday2020/static/js/main.07a97243.chunk.js",
+    "main.js.map": "/birthday2020/static/js/main.07a97243.chunk.js.map",
+    "runtime-main.js": "/birthday2020/static/js/runtime-main.31920987.js",
+    "runtime-main.js.map": "/birthday2020/static/js/runtime-main.31920987.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/birthday2020/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.4c84677b.chunk.js": "/birthday2020/static/js/2.4c84677b.chunk.js",
+    "static/js/2.4c84677b.chunk.js.map": "/birthday2020/static/js/2.4c84677b.chunk.js.map",
+    "static/js/3.801ed2cc.chunk.js": "/birthday2020/static/js/3.801ed2cc.chunk.js",
+    "static/js/3.801ed2cc.chunk.js.map": "/birthday2020/static/js/3.801ed2cc.chunk.js.map",
+    "index.html": "/birthday2020/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/birthday2020/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.239d9539.chunk.css.map": "/birthday2020/static/css/main.239d9539.chunk.css.map",
+    "static/js/2.4c84677b.chunk.js.LICENSE.txt": "/birthday2020/static/js/2.4c84677b.chunk.js.LICENSE.txt",
+    "static/media/cake.d9a6da33.gif": "/birthday2020/static/media/cake.d9a6da33.gif",
+    "static/media/garlands.41c15942.png": "/birthday2020/static/media/garlands.41c15942.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31920987.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.4c84677b.chunk.js",
+    "static/css/main.239d9539.chunk.css",
+    "static/js/main.07a97243.chunk.js"
+  ]
+}
