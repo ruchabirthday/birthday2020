@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/birthday2020/static/css/main.d78ea394.chunk.css",
-    "main.js": "/birthday2020/static/js/main.00a0db4c.chunk.js",
-    "main.js.map": "/birthday2020/static/js/main.00a0db4c.chunk.js.map",
+    "main.css": "/birthday2020/static/css/main.d795693d.chunk.css",
+    "main.js": "/birthday2020/static/js/main.2a9d3cbe.chunk.js",
+    "main.js.map": "/birthday2020/static/js/main.2a9d3cbe.chunk.js.map",
     "runtime-main.js": "/birthday2020/static/js/runtime-main.31920987.js",
     "runtime-main.js.map": "/birthday2020/static/js/runtime-main.31920987.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/birthday2020/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.0f50f91d.chunk.js": "/birthday2020/static/js/2.0f50f91d.chunk.js",
-    "static/js/2.0f50f91d.chunk.js.map": "/birthday2020/static/js/2.0f50f91d.chunk.js.map",
+    "static/js/2.c319f63a.chunk.js": "/birthday2020/static/js/2.c319f63a.chunk.js",
+    "static/js/2.c319f63a.chunk.js.map": "/birthday2020/static/js/2.c319f63a.chunk.js.map",
     "static/js/3.801ed2cc.chunk.js": "/birthday2020/static/js/3.801ed2cc.chunk.js",
     "static/js/3.801ed2cc.chunk.js.map": "/birthday2020/static/js/3.801ed2cc.chunk.js.map",
     "index.html": "/birthday2020/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/birthday2020/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.d78ea394.chunk.css.map": "/birthday2020/static/css/main.d78ea394.chunk.css.map",
-    "static/js/2.0f50f91d.chunk.js.LICENSE.txt": "/birthday2020/static/js/2.0f50f91d.chunk.js.LICENSE.txt",
+    "static/css/main.d795693d.chunk.css.map": "/birthday2020/static/css/main.d795693d.chunk.css.map",
+    "static/js/2.c319f63a.chunk.js.LICENSE.txt": "/birthday2020/static/js/2.c319f63a.chunk.js.LICENSE.txt",
     "static/media/cake.d9a6da33.gif": "/birthday2020/static/media/cake.d9a6da33.gif",
-    "static/media/garlands.41c15942.png": "/birthday2020/static/media/garlands.41c15942.png"
+    "static/media/garlands.41c15942.png": "/birthday2020/static/media/garlands.41c15942.png",
+    "static/media/love.1298f31b.png": "/birthday2020/static/media/love.1298f31b.png",
+    "static/media/modal_gif.738e4f10.gif": "/birthday2020/static/media/modal_gif.738e4f10.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.31920987.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.0f50f91d.chunk.js",
-    "static/css/main.d78ea394.chunk.css",
-    "static/js/main.00a0db4c.chunk.js"
+    "static/js/2.c319f63a.chunk.js",
+    "static/css/main.d795693d.chunk.css",
+    "static/js/main.2a9d3cbe.chunk.js"
   ]
 }
